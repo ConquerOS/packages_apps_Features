@@ -32,5 +32,16 @@
             android:title="@string/double_tap_sleep_lockscreen_title"
             android:defaultValue="false" />
     </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="power_gesture_category"
+        android:title="@string/power_gesture_category_title">
+
+        <com.conquer.settings.preferences.SecureSettingSwitchPreference
+            android:key="power_menu_hide_on_secure"
+            android:title="@string/power_menu_hide_on_secure_title"
+            android:summary="@string/power_menu_hide_on_secure_summary"
+            android:defaultValue="false" />
+    </PreferenceCategory>
 	
 </PreferenceScreen>
