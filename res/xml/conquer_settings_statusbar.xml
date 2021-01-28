@@ -45,4 +45,10 @@
         android:summary="@string/qs_tile_conquer_tint_summary"
         android:defaultValue="true" />
 
+    <Preference
+	android:key="traffic_settings"
+        android:title="@string/trafficsettings_title"
+        android:summary="@string/trafficsettings_summary"
+        android:fragment="com.conquer.settings.fragments.TrafficSettings" />
+
 </PreferenceScreen>
