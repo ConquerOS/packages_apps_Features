@@ -33,4 +33,16 @@
             android:defaultValue="false" />
     </PreferenceCategory>
 
+    <Preference
+        android:key="three_finger_gesture_summary"
+        android:title="@string/three_finger_gesture"
+        android:fragment="com.android.settings.gestures.SwipeToScreenshotGestureSettings"
+        settings:controller="com.android.settings.gestures.SwipeToScreenshotPreferenceController" />
+
+    <Preference
+        android:key="power_menu"
+        android:title="@string/power_menu_setting_name"
+        android:fragment="com.android.settings.gestures.PowerMenuSettings"
+        settings:controller="com.android.settings.gestures.PowerMenuPreferenceController" />
+
 </PreferenceScreen>

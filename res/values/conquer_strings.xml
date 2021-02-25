@@ -60,4 +60,15 @@
     <string name="power_menu_hide_on_secure_title">Hide on lockscreen</string>
     <string name="power_menu_hide_on_secure_summary">Hides the global actions menu on secure lockscreen</string>
 	
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+
+    <!-- Power menu setting -->
+    <string name="power_menu_setting_name">Power menu</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
+    <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
+
 </resources>
