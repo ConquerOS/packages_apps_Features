@@ -24,7 +24,9 @@
     <string name="misc_title">Miscellaneous</string>
     <string name="misc_summary">Other features option</string>
     <string name="statusbar_title">Status Bar</string>
-    <string name="statusbar_summary">Personalize how your Status Bar looks like</string>
+    <string name="statusbar_summary">Status bar customization options</string>
+    <string name="lockscreen_title">Lockscreen</string>
+    <string name="lockscreen_summary">Lockscreen customization options</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -32,10 +34,6 @@
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
 
-    <!-- About ConquerOS strings -->
-    <string name="about_conqueros_title">About ConquerOS</string>
-    <string name="about_conqueros_summary">ConquerOS is another CAF Based Custom ROM that come with smooth, well performanced, and redefined UI.</string>
-	
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>

@@ -34,12 +34,12 @@
             android:fragment="com.conquer.settings.fragments.StatusBar" 
             android:icon="@drawable/ic_settings_statusbar"/>
 
-		<!-- Misc
+	<!-- Lockscreen -->
         <Preference
-            android:key="misc_category"
-            android:title="@string/misc_title" 
-            android:summary="@string/misc_summary"
-            android:fragment="com.conquer.settings.fragments.Misc"
-            android:icon="@drawable/ic_settings_misc"/>  -->
+            android:key="ockscreen_category"
+            android:title="@string/lockscreen_title" 
+            android:summary="@string/lockscreen_summary"
+            android:fragment="com.conquer.settings.fragments.Lockscreen"
+            android:icon="@drawable/ic_settings_lockscreen"/>
 
 </PreferenceScreen>
