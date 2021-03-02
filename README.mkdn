@@ -1,0 +1,12 @@
+# Features
+
+  This is extension of Android Settings for ConquerOS Features.
+  
+## Help us translating!
+
+  We need your help to translate this source to your language! You follow steps bellow:
+  - Fork this repository.
+  - Clone to your PC, and do changes.
+  - Commit your chnages and push it to your forked repository.
+  - Then do Pull-Request.
+  - We'll review your changes ASAP.

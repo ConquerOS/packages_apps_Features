@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019-2021 The ConquerOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- App Title -->
+    <string name="settings_title">Features</string>
+
+    <!-- Categories -->
+    <string name="gestures_title">Gestures</string>
+    <string name="gestures_summary">Operate your device way easier</string>
+    <string name="misc_title">Miscellaneous</string>
+    <string name="misc_summary">Other features option</string>
+    <string name="statusbar_title">Status Bar</string>
+    <string name="statusbar_summary">Personalize how your Status Bar looks like</string>
+
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <!-- About ConquerOS strings -->
+    <string name="about_conqueros_title">About ConquerOS</string>
+    <string name="about_conqueros_summary">ConquerOS is another CAF Based Custom ROM that come with smooth, well performanced, and redefined UI.</string>
+	
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
+</resources>
