@@ -23,8 +23,8 @@
     <string name="gestures_summary">Operate your device way easier</string>
     <string name="misc_title">Miscellaneous</string>
     <string name="misc_summary">Other features option</string>
-    <string name="statusbar_title">Status Bar</string>
-    <string name="statusbar_summary">Status bar customization options</string>
+    <string name="statusbar_title">Status Bar and Quick Settings Panel</string>
+    <string name="statusbar_summary">Customize how ypur status bar and quick settings panel looks</string>
     <string name="lockscreen_title">Lockscreen</string>
     <string name="lockscreen_summary">Lockscreen customization options</string>
 
@@ -80,5 +80,9 @@
     <!-- Transparent lockscreen notifications -->
     <string name="transparent_lockscreen_notification_title">Transparent notifications</string>
     <string name="transparent_lockscreen_notification_summary">Enable lockscreen notifications with semi-transparent backgrounds</string>
+
+    <!-- ConqerUI Black and white QS Tile -->
+    <string name="qs_tile_conquer_tint_title">Black and White QS Tile</string>
+    <string name="qs_tile_conquer_tint_summary">Use ConquerUI Black and White QS Tile</string>
 
 </resources>
