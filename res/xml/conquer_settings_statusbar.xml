@@ -24,4 +24,10 @@
         android:summary="@string/show_fourg_summary"
         android:defaultValue="false" />
 		
+    <com.conquer.settings.preferences.SystemSettingSwitchPreference
+        android:key="qs_tile_conquer_tint"
+        android:title="@string/qs_tile_conquer_tint_title"
+        android:summary="@string/qs_tile_conquer_tint_summary"
+        android:defaultValue="true" />
+
 </PreferenceScreen>
