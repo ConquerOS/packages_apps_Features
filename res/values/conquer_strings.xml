@@ -108,4 +108,9 @@
     <string name="battery_percentage_off">Hidden</string>
     <string name="battery_percentage_inside_icon">Inside battery icon</string>
     <string name="battery_percentage_outside_icon">Outside battery icon</string>
+
+    <!-- Lock icon -->
+    <string name="hide_lockicon_title">Hide lock icon</string>
+    <string name="hide_lockicon_summary">Hide the lock icon on lockscreen</string>
+
 </resources>
