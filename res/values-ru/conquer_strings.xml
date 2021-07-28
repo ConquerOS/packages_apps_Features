@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019-2021 The ConquerOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- App Title -->
+    <string name="settings_title">Дополнительные настройки</string>
+
+    <!-- Categories -->
+    <string name="gestures_title">Жесты</string>
+    <string name="gestures_summary">Управляйте своим устройством еще проще</string>
+    <string name="misc_title">Разное</string>
+    <string name="misc_summary">Другие разнообразные функции</string>
+    <string name="statusbar_title">Строка состояния и панель быстрых настроек</string>
+    <string name="statusbar_summary">Настройка внешний вид строки состояния и панели быстрых настроек</string>
+    <string name="lockscreen_title">Экран блокировки</string>
+    <string name="lockscreen_summary">Настройка экрана блокировки</string>
+
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Сброс</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Палитра цветов</string>
+    <string name="press_color_to_apply">Нажмите на цвет ниже, чтобы применить</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Набор</string>
+    <string name="color_default">По умолчанию</string>
+
+    <!--Double Tap to Sleep -->
+    <string name="double_tap_gestures_category_title">Жесты двойного касания</string>
+    <string name="double_tap_sleep_gesture_title">Коснитесь два раза строки состояния для сна</string>
+    <string name="double_tap_sleep_lockscreen_title">Коснитесь два раза экрана блокировки для сна</string>
+
+    <!-- 4G LTE switch -->
+    <string name="show_fourg_title">Показать 4G вместо LTE</string>
+    <string name="show_fourg_summary">Заменить индикатор строки состояния LTE на 4G</string>
+
+    <!-- Power menu Gesture -->
+    <string name="power_gesture_category_title">Меню питания</string>
+
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Скрыть на экране блокировки</string>
+    <string name="power_menu_hide_on_secure_summary">Скрыть меню питания на экране блокировки</string>
+	
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Проведите для создания снимка экрана</string>
+    <string name="three_finger_gesture_summary">Проведите тремя пальцами вниз, чтобы сделать снимок экрана</string>
+
+    <!-- Power menu setting -->
+    <string name="power_menu_setting_name">Меню питания</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
+    <string name="lockscreen_battery_info_summary">Отображать максимальный ток, напряжение и температуру аккумулятора во время зарядки устройства</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Вибрация при распозновании отпечатка пальца</string>
+    <string name="fprint_sucess_vib_summary">Вибрировать при успешном распозновании отпечатка пальца</string>
+    <string name="fprint_error_vib_title">Вибрация при ошибке распозновании отпечатка пальца</string>
+    <string name="fprint_error_vib_summary">Вибрировать при ошибке распознования отпечатка пальца</string>
+
+    <!-- Transparent lockscreen notifications -->
+    <string name="transparent_lockscreen_notification_title">Прозрачные уведомления</string>
+    <string name="transparent_lockscreen_notification_summary">Включить уведомления на заблокированном экране с полупрозрачным фоном</string>
+
+    <!-- ConqerUI Black and white QS Tile -->
+    <string name="qs_tile_conquer_tint_title">Черные и белые плитки быстрых настроек</string>
+    <string name="qs_tile_conquer_tint_summary">Использовать ConquerUI с черными и белыми плитками быстрых настроек</string>
+
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Агрессивное энергосбережение</string>
+    <string name="aggressive_battery_summary">Более строгая экономия батареи</string>
+    <string name="aggressive_battery_warning_text">Функции энергосбережения. Включение этих режимов может мешать службам, работающим в фоне, например, навигационным приложениям. Вы можете включить эти приложения в белый список в настройках батареи.</string>
+    <string name="aggressive_idle_title">Агрессивный сон</string>
+    <string name="aggressive_idle_summary">Чаще входить в режим сна и меньше просыпаться</string>
+    <string name="aggressive_standby_title">Ограничение работы в фоне</string>
+    <string name="aggressive_standby_summary">Ограничить работу фоновых приложений</string>
+    <string name="aggressive_battery_saver_title">Включать автоматически в режиме экономии заряда</string>
+    <string name="aggressive_battery_saver_summary">Автоматически включать агрессивное энергосбережение в режиме экономии заряда</string>
+
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Стиль иконки батареи</string>
+    <string name="status_bar_battery_style_icon_portrait">Вертикальный значок</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Пунктирный круг</string>
+    <string name="status_bar_battery_style_solid">Сплошной</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Скрыть</string>
+    <string name="battery_percentage_title">Процент заряда батареи</string>
+    <string name="battery_percentage_off">Скрыть</string>
+    <string name="battery_percentage_inside_icon">Значок процента внутри иконки батареи</string>
+    <string name="battery_percentage_outside_icon">Значок процента рядом с иконкой батареи</string>
+
+    <!-- Lock icon -->
+    <string name="hide_lockicon_title">Скрыть значок замка</string>
+    <string name="hide_lockicon_summary">Скрыть значок замка на экране блокировки</string>
+
+    <!-- Traffic Indicator -->
+    <string name="trafficsettings_title">Индикатор трафика</string>
+    <string name="trafficsettings_summary">Настройка индикатора трафика в строке состояния и в заголовке</string>
+    <string name="network_traffic_settings_title">Индикатор сетевого трафика</string>
+    <string name="network_traffic_settings_summary">Отображение и настройка текущих уровней сетевого трафика</string>
+    <string name="network_traffic_location_title">Расположение</string>
+    <string name="network_traffic_location_disable">Отключен</string>
+    <string name="network_traffic_location_statusbar">Строка состояния</string>
+    <string name="network_traffic_location_quick_statusbar">Раскрытая строка состояния</string>
+    <string name="network_traffic_mode_title">Режим отображения</string>
+    <string name="network_traffic_mode_up">Только исходящий трафик</string>
+    <string name="network_traffic_mode_down">Только входящий трафик</string>
+    <string name="network_traffic_mode_all">Исходящий и входящий трафик</string>
+    <string name="network_traffic_autohide">Скрывать автоматически</string>
+    <string name="network_traffic_autohide_summary">Скрывать индикатор сетевого трафика, когда сеть неактивна</string>
+    <string name="network_traffic_autohide_kilobits">Кб/с</string>
+    <string name="network_traffic_autohide_kilobytes">КБ/с</string>
+    <string name="network_traffic_autohide_threshold">Порог неактивности</string>
+    <string name="network_traffic_show_units">Показать единицы</string>
+    <string name="network_traffic_show_units_summary">Отображать скорость передачи данных в строке состояния</string>
+    <string name="network_traffic_units_title">Единицы измерения трафика</string>
+    <string name="network_traffic_units_bits">Бит в секунду (бит/с)</string>
+    <string name="network_traffic_units_kilobits">Килобит в секунду (кбит/с)</string>
+    <string name="network_traffic_units_megabits">Мегабит в секунду (Мбит/с)</string>
+    <string name="network_traffic_units_bytes">Байт в секунду (Б/с)</string>
+    <string name="network_traffic_units_kilobytes">Килобайт в секунду (кБ/с)</string>
+    <string name="network_traffic_units_megabytes">Мегабайт в секунду (МБ/с)</string>
+    <string name="network_traffic_hidearrow">Скрывать стрелки</string>
+    <string name="network_traffic_hidearrow_summary">Скрывать стрелки индикатора сетевого трафика</string>
+    <string name="network_traffic_refresh_interval_title">Интервал обновления</string>
+    <string name="network_traffic_refresh_interval_summary">Интервал повторного измерения скорости</string>
+    <string name="unit_seconds">секунды</string>
+
+</resources>
